@@ -9,10 +9,10 @@ List of fields:
 - X length
 - Y length
 - Quantity
-- X1B edge
-- X2B edge
-- Y1B edge
-- Y2B edge
+- X1 edge
+- X2 edge
+- Y1 edge
+- Y2 edge
 - Comment 
 
 ## Requirements
