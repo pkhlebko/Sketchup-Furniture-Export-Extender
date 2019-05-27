@@ -1,0 +1,22 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "Parse Sketchup csv exported files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkhlebko/Sketchup-Furniture-Export-Extender.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Pavel Khlebko",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "csv-parse": "^4.4.1"
+  }
+}
