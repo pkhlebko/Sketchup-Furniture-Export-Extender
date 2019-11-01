@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.20.0",
-    "csv-parse": "^4.4.1"
+    "csv-parse": "^4.4.6"
   }
 }
